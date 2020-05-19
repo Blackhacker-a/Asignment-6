@@ -14,7 +14,7 @@ int main(){
 	for(int i=0;i<n;i++){
 		if(arr[i]<0){
 			count++;
-			}
+			}       
 	}
 	if(count==n){
 		printf("Mang toan so am");
